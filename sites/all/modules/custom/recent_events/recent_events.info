@@ -1,0 +1,4 @@
+name = Recent events
+description = Block with 5 most recent events
+core = 7.x
+package = My Modules
